@@ -1,5 +1,6 @@
-<div align="center">
-  <h1>Olá, meu nome é Arthur Santos 👋</h1>
+## Olá meu nome é Arthur Santos iniciante na programção!
+
+<div>
   <h3>- 🔭 Procurando oportunidades como Desenvolvedor Jr.</h3>
   <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript e SQL.</h3>
   <h3>- 😄 Pronouns: ele/dele.</h3>
@@ -8,15 +9,16 @@
 <div align="center">
   <a href="https://github.com/arthurjs92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurjs92&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjs92&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjs&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img align="right" alt="The-I.T-Crowd" height="150" style="border-radius:50px;" src="https://c.tenor.com/EQKOqZVoW0sAAAAC/brilliant-good.gif">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Arthur-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Arthur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-  
+
   ##
  
 <div align="center"> 
