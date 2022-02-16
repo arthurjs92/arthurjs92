@@ -1,7 +1,7 @@
 ## Olá, meu nome é Arthur Santos iniciante na programação!
 
 <div>
-  <h3>- 🔭 Procurando oportunidades como Desenvolvedor Jr.</h3>
+  <h3>- 🔭 Procurando oportunidades como Desenvolvedor Java Jr.</h3>
   <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript e SQL.</h3>
 </div>
 
