@@ -9,7 +9,7 @@
   <a href="https://github.com/arthurjs92">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurjs92&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurjs92&layout=compact&langs_count=7&theme=ocean_dark"/>
-  <img align="right" alt="The-I.T-Crowd" height="150" style="border-radius:50px;" src="https://c.tenor.com/EQKOqZVoW0sAAAAC/brilliant-good.gif">
+  <img align="right" alt="The-I.T-Crowd" height="150" style="border-radius:50px;" src="https://tenor.com/view/maurice-moss-unexpected-reboot-it-crowd-reboot-richard-ayoade-gif-11294807">
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Arthur-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
