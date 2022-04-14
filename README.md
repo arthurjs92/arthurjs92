@@ -2,7 +2,7 @@
 
 <div>
   <h3>- 🔭 Procurando oportunidades como Desenvolvedor Jr.</h3>
-  <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript e SQL.</h3>
+  <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript, C#, ReactJS e SQL.</h3>
 </div>
 
 <div align="center">
