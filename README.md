@@ -1,4 +1,4 @@
-## Olá, meu nome é Arthur Santos iniciante na programação!
+## Olá, meu nome é Arthur Santos e sou Desenvolvedor Back-End Jr!
 
 <div>
   <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript, C#, ReactJS e SQL.</h3>
