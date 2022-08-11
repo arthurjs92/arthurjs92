@@ -1,4 +1,4 @@
-## Olá, meu nome é Arthur Santos e sou Desenvolvedor Back-End Jr!
+## Olá, meu nome é Arthur Santos e sou Desenvolvedor Back-End!
 
 <div>
   <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript, C#, ReactJS e MySQL.</h3>
