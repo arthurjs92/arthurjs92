@@ -1,7 +1,7 @@
-## Olá, meu nome é Arthur Santos e sou Desenvolvedor Back-End!
+## Olá, meu nome é Arthur Santos e sou Desenvolvedor Full Stack!
 
 <div>
-  <h3>- 🌱 Estudando MVC, Java, HTML, JavaScript, C#, ReactJS e MySQL.</h3>
+  <h3>- 🌱 Estudando ReactJS, MongoDB, Spring Boot, POO, Sistemas Distribuidos e Docker.</h3>
 </div>
 
 <div align="center">
